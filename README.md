@@ -73,7 +73,7 @@ Now go to your bot and do a `/start`.
 * `/banned_users` - Admin/Auth users only command. Command to view all banned users. Usage: `/banned_users`. This takes no parameters.
 
 ### Functions
-* `Screenshot Generation` - Generates screenshots from telegram video files or streaming links. Number of screenshots range from 2-10.
+* `Screenshot Generation` - Generates screenshots from telegram video files or streaming links. Number of screenshots range from 2-5.
 * `Sample Video Generation` - Generates sample video from telegram video files or streaming links. Video duration range from 30s to 150s. Configurable in `/settings`.
 * `Video Trimming` - Trims any telegram video files or streaming links. Video duration depends on the environment. By default upto 10 mins (600s).
 
@@ -91,15 +91,7 @@ In bot settings.
 Contributions are welcome.
 
 ## Contact
-You can contact me [@InFoTelGroup](https://tx.me/InFoTelGroup).
-
-## Thanks
-
-Thanks to [@odysseusmax](https://tx.me/odysseusmax) for his [animated-lamp](https://github.com/odysseusmax/animated-lamp) Bot.
-
-Thanks to [Dan](https://github.com/delivrance "Dan") for his [Pyrogram](https://github.com/pyrogram/pyrogram "Pyrogram") library.
-
-Thanks to [Tulir Asokan](https://github.com/tulir "Tulir Asokan") for his [TgFileStream](https://github.com/tulir/tgfilestream "TgFileStream") Bot.
+You can contact me [@clickpassword](https://t.me/clickpassword).
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
